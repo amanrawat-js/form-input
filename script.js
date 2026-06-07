@@ -5,7 +5,7 @@ const CONFIG = {
   // ─── CRM Base URL ───────────────────────────────────────
   // For local development:  "http://localhost:3000"
   // For production:         "https://your-crm-app.vercel.app"  ← UPDATE THIS
-  CRM_BASE_URL: "http://localhost:3000",
+  CRM_BASE_URL: "https://crm-psi-fawn-59.vercel.app",
 
   // API endpoint for external lead submissions
   API_ENDPOINT: "/api/leads/external",
